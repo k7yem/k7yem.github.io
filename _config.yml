@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: K7YEM's Amateur Radio Journal
+title: K7YEM
 
 # Short description of your site
-description: Dispatches from an Amateur Radio Journey, est. 2019
+description: 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
